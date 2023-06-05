@@ -1,5 +1,5 @@
-### Hi there 👋
-
+#Hello wide world :)
+#I am new to the world of programming but am thorughouly interested in the world of machine learning and looking to learn all about it. I have some experience with Python and Latex and a good understanding of the maths necessary. Any help or advice is greatly appreciated!
 <!--
 **ToasterA/ToasterA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
