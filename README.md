@@ -1,5 +1,4 @@
-#Hello wide world :)
-#I am new to the world of programming but am thorughouly interested in the world of machine learning and looking to learn all about it. I have some experience with Python and Latex and a good understanding of the maths necessary. Any help or advice is greatly appreciated!
+Physics student and Data Analyst in training. Focused on Python, SQL, and data modelling. I build pipelines to process, analyse, and visualise large datasets, with applications ranging from 3D data processing to financial analytics. Passionate about turning complex data into actionable insights.
 <!--
 **ToasterA/ToasterA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
